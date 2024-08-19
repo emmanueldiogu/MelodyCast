@@ -1,3 +1,3 @@
 # MelodyCast App
 
-## Melody driven my weather forecast
+## Melody driven by the current weather forecast
